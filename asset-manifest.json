@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.20c375be.chunk.css",
+    "main.js": "/Portfolio/static/js/main.4545a26a.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.4545a26a.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.87968753.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.87968753.js.map",
+    "static/css/2.800be05e.chunk.css": "/Portfolio/static/css/2.800be05e.chunk.css",
+    "static/js/2.9cfdd68b.chunk.js": "/Portfolio/static/js/2.9cfdd68b.chunk.js",
+    "static/js/2.9cfdd68b.chunk.js.map": "/Portfolio/static/js/2.9cfdd68b.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.800be05e.chunk.css.map": "/Portfolio/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.20c375be.chunk.css.map": "/Portfolio/static/css/main.20c375be.chunk.css.map",
+    "static/js/2.9cfdd68b.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.9cfdd68b.chunk.js.LICENSE.txt",
+    "static/media/immobilier.cd219df1.png": "/Portfolio/static/media/immobilier.cd219df1.png",
+    "static/media/photoProfil.47d6c7bc.jpg": "/Portfolio/static/media/photoProfil.47d6c7bc.jpg",
+    "static/media/portfolio.5b2196f1.png": "/Portfolio/static/media/portfolio.5b2196f1.png",
+    "static/media/projetEnCours.78ea7c96.png": "/Portfolio/static/media/projetEnCours.78ea7c96.png",
+    "static/media/terreDeGeek.2db62ed9.png": "/Portfolio/static/media/terreDeGeek.2db62ed9.png",
+    "static/media/tesla.fc87e634.png": "/Portfolio/static/media/tesla.fc87e634.png",
+    "static/media/tinder.077ddf28.png": "/Portfolio/static/media/tinder.077ddf28.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87968753.js",
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.9cfdd68b.chunk.js",
+    "static/css/main.20c375be.chunk.css",
+    "static/js/main.4545a26a.chunk.js"
+  ]
+}
